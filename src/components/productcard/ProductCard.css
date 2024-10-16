@@ -1,0 +1,6 @@
+.productCard {
+  width: 300px;
+  border: black solid 2px;
+  border-radius: 10px;
+  padding: 10px;
+}

@@ -1,0 +1,9 @@
+.box {
+  display: flex;
+  gap: 10px;
+}
+
+.iumori {
+  display: flex;
+  gap: 15px;
+}
