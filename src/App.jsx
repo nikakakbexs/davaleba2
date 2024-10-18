@@ -1,5 +1,5 @@
 import "./App.css";
-import Bolo from "./components/bolo/bolo.jsx";
+import Bolo from "./components/bolo/Bolo.jsx";
 import Button from "./components/button/Button";
 import ProductCard from "./components/productcard/ProductCard";
 import Text from "./components/text/Text";
